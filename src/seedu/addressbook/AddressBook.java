@@ -142,6 +142,7 @@ public class AddressBook {
     private static final String COMMAND_EXIT_EXAMPLE = COMMAND_EXIT_WORD;
 
     private static final String DIVIDER = "===================================================";
+    /* random comment */
 
 
     /* We use a String array to store details of a single person.
